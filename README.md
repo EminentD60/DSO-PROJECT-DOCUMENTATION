@@ -8,7 +8,7 @@ The dataset for this project was obtained from a Nigerian real estate company ca
 
 ## Tools Used
 
-- MS Excel
+- MS Excel for Data Cleaning [Download here](https://www.microsoft.com)
 - Microsoft Power BI
 - Python
 - SQL
