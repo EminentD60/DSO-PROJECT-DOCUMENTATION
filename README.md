@@ -20,8 +20,7 @@ Google Query Sheet
 =QUERY(A:H, "SELECT A,F,H WHERE(A='Central' OR A='East') AND (F='2014')", 1)
 
 ```
-
-![](Data-Analysis-1.PNG)
+![](REAL.jpg)
 
 [Heading 1 | Heading 2| Heading 3|
 |--------|-----------|-----------|
