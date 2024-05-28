@@ -21,7 +21,7 @@ Google Query Sheet
 
 ```
 
-![](Data Analysis)
+![](Data-Analysis-1.PNG)
 
 [Heading 1 | Heading 2| Heading 3|
 |--------|-----------|-----------|
