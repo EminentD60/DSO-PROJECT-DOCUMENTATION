@@ -20,8 +20,9 @@ Google Query Sheet
 =QUERY(A:H, "SELECT A,F,H WHERE(A='Central' OR A='East') AND (F='2014')", 1)
 
 ```
-![](REAL.jpg)
+![](https://github.com/EminentD60/DSO-PROJECT-DOCUMENTATION/blob/main/REAL.jpg)
 
-[Heading 1 | Heading 2| Heading 3|
-|--------|-----------|-----------|
-|Data 1|Data 2|Data 3|
+[Heading 1 | Heading 2| Heading 3| Heading 4|
+|--------|-----------|-----------|---------|
+|Day 1|Day 2|Day 3|Day 4|
+|Present| Absent| Present| Absent|
