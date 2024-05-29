@@ -13,6 +13,9 @@ The dataset for this project was obtained from a Nigerian real estate company ca
 - Microsoft Power BI
 - Python
 - SQL
+  
+![](REAL.jpg)
+
 
 ```
 Google Query Sheet
@@ -20,7 +23,7 @@ Google Query Sheet
 =QUERY(A:H, "SELECT A,F,H WHERE(A='Central' OR A='East') AND (F='2014')", 1)
 
 ```
-![]()
+
 
 [Heading 1 | Heading 2| Heading 3| Heading 4|
 |--------|-----------|-----------|---------|
